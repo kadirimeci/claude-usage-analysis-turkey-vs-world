@@ -57,37 +57,48 @@ Meslek kategorileri arasındaki farklar için **simetrik Kitagawa ayrıştırmas
 anthropic-ai-usage-analysis/
 ├── README.md
 ├── .gitignore
-├── 01_veri_kesfi.py ... 19_proje_veri_dogrulama.py
-├── sql/                         # BigQuery analiz sorguları
-├── outputs/                     # İşlenmiş analiz sonuçları ve raporlar
-├── adim24_cikti_ayristirma.csv
-├── adim25_kapsam.csv
-├── adim26_otomasyon.csv
-└── data/                        # Ham veri (GitHub'a eklenmez)
+├── scripts/                   # 19 Python analiz ve doğrulama betiği
+│   ├── 01_veri_kesfi.py
+│   ├── ...
+│   └── 19_proje_veri_dogrulama.py
+├── sql/                       # 19 BigQuery analiz sorgusu
+├── outputs/                   # Analiz sonuçları, CSV dosyaları ve raporlar
+│   ├── adim24_cikti_ayristirma.csv
+│   ├── adim25_kapsam.csv
+│   ├── adim26_otomasyon.csv
+│   └── ...
+└── data/                      # Ham veri (GitHub'a eklenmez)
 ```
 
-Python dosyaları analiz sürecinin adımlarına göre numaralandırılmıştır. `sql/` klasöründeki sorgular, BigQuery geçmişinden arşivlenen çalışmaları içerir. `outputs/` klasörü ise analizlerin oluşturduğu tabloları ve özet raporları barındırır.
+**Klasör açıklamaları:**
+
+- `scripts/`: Veri keşfinden doğrulamaya kadar numaralandırılmış Python betikleri.
+- `sql/`: BigQuery üzerinde gerçekleştirilen analizlerin SQL sorguları.
+- `outputs/`: Analizlerden üretilen CSV tabloları ve özet raporlar.
+- `data/`: Yerel ortamda kullanılan ham veri dosyaları; GitHub deposuna dahil edilmez.
 
 ## Çalıştırma ve doğrulama
 
-Python 3 ve gerekli paketlerin kurulu olduğu bir sanal ortam kullanın. Bazı veri hazırlama betikleri, yerel `data/` klasöründeki kaynak CSV'yi gerektirir. BigQuery üzerinde çalışan sorgular için ayrıca uygun Google Cloud projesi ve veri tabloları gereklidir.
+Python 3 ve gerekli paketlerin kurulu olduğu bir sanal ortam kullanılmalıdır. Bazı veri hazırlama betikleri, yerel `data/` klasöründeki kaynak CSV'yi gerektirir. BigQuery üzerinde çalışan sorgular için ayrıca uygun Google Cloud projesi ve veri tabloları gereklidir.
 
-Mevcut çıktı dosyalarının temel kontrollerini çalıştırmak için Windows PowerShell'de:
+Aşağıdaki komutlar **projenin ana dizininde**, Windows PowerShell üzerinden çalıştırılır.
+
+**Mevcut çıktı dosyalarının temel kontrolleri:**
 
 ```powershell
-.\.venv\Scripts\python.exe 19_proje_veri_dogrulama.py
+.\.venv\Scripts\python.exe .\scripts\19_proje_veri_dogrulama.py
 ```
 
-İş amaçlı kullanımın iki dönemlik meslek ayrıştırmasını yeniden üretmek için:
+**İş amaçlı kullanımın iki dönemlik meslek ayrıştırmasını yeniden üretme:**
 
 ```powershell
-.\.venv\Scripts\python.exe 13_meslek_ayristirma_analizi.py
+.\.venv\Scripts\python.exe .\scripts\13_meslek_ayristirma_analizi.py
 ```
 
-Toplu analiz için:
+**Toplu analiz:**
 
 ```powershell
-.\.venv\Scripts\python.exe 18_toplu_analiz.py
+.\.venv\Scripts\python.exe .\scripts\18_toplu_analiz.py
 ```
 
 > **Tekrar üretilebilirlik notu:** Bütün iş akışının sıfırdan çalışması için kaynak verinin temin edilmesi, gerekli Python bağımlılıklarının kurulması ve BigQuery tablolarının oluşturulması gerekir. Bu depo tek komutla uçtan uca yeniden üretim garantisi vermez.
