@@ -2,7 +2,7 @@ from pathlib import Path
 import pandas as pd
 
 # Dosya yolu
-proje = Path(__file__).resolve().parent
+proje = Path(__file__).resolve().parent.parent
 dosya = proje / "data" / "aei_claude_ai_2026-06-26.csv"
 
 # Ham veri

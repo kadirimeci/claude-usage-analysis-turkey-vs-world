@@ -2,7 +2,7 @@ from pathlib import Path
 import pandas as pd
 
 # Proje dosyaları
-proje = Path(__file__).resolve().parent
+proje = Path(__file__).resolve().parent.parent
 ham_dosya = proje / "data" / "aei_claude_ai_2026-06-26.csv"
 cikti_klasoru = proje / "outputs"
 cikti_klasoru.mkdir(exist_ok=True)

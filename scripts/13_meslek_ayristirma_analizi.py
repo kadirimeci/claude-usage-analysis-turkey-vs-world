@@ -3,7 +3,7 @@
 from pathlib import Path
 import pandas as pd
 
-proje = Path(__file__).resolve().parent
+proje = Path(__file__).resolve().parent.parent
 veri = pd.read_csv(proje / 'outputs' / 'meslek_kullanim_profili_2026.csv', dtype={'occupation_code': str})
 zorunlu = {'date_start', 'bolge', 'occupation_code', 'occupation_name', 'usage_pct', 'work_pct'}
 assert zorunlu.issubset(veri.columns), f'Eksik sütunlar: {zorunlu - set(veri.columns)}'

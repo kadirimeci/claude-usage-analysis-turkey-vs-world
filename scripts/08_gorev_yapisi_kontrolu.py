@@ -2,7 +2,7 @@ from pathlib import Path
 import pandas as pd
 
 # Dosya yolları
-proje = Path(__file__).resolve().parent
+proje = Path(__file__).resolve().parent.parent
 dosya = proje / "data" / "aei_claude_ai_2026-06-26.csv"
 
 veri = pd.read_csv(dosya, low_memory=False)

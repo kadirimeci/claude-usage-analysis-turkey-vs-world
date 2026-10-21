@@ -2,7 +2,7 @@ from pathlib import Path
 import pandas as pd
 
 # Ana veri dosyasının konumu
-proje_klasoru = Path(__file__).resolve().parent
+proje_klasoru = Path(__file__).resolve().parent.parent
 dosya_yolu = proje_klasoru / "data" / "aei_claude_ai_2026-06-26.csv"
 
 # CSV dosyasını okuyoruz

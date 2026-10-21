@@ -2,7 +2,7 @@
 from pathlib import Path
 import pandas as pd
 
-kok = Path(__file__).resolve().parent
+kok = Path(__file__).resolve().parent.parent
 out = kok / 'outputs'
 kontroller = [
     ('meslek_kullanim_profili_2026.csv', ['date_start','bolge','occupation_code'], 84),
