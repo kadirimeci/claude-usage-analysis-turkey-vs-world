@@ -1,0 +1,34 @@
+# Python sanal ortamlari
+.venv/
+venv/
+env/
+
+# Python gecici dosyalari
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Buyuk ham veri dosyalari
+data/*.csv
+data/*.parquet
+data/*.zip
+
+# Hassas bilgiler
+.env
+.env.*
+!.env.example
+*.pem
+*credentials*.json
+*service-account*.json
+
+# IDE ve sistem dosyalari
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Gecici dosyalar
+*.log
+*.tmp
+~$*

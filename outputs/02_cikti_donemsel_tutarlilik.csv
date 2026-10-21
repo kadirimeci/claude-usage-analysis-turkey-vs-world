@@ -1,0 +1,33 @@
+﻿artifact_code,nisan_farki,mayis_farki,fark_degisim,ayni_yon,iki_ay_ortalama_mutlak_fark,oncelik
+artifact_document_or_report_pct,-3.188200,-2.997200,0.191000,True,3.092700,Güçlü ve tutarlı
+artifact_email_or_message_pct,-2.327100,-2.362400,-0.035300,True,2.344750,Güçlü ve tutarlı
+artifact_code_fix_or_debug_pct,2.398000,2.003000,-0.395000,True,2.200500,Güçlü ve tutarlı
+artifact_explanation_or_answer_pct,1.472500,1.619800,0.147300,True,1.546150,Güçlü ve tutarlı
+artifact_app_or_website_pct,1.512800,1.544700,0.031900,True,1.528750,Güçlü ve tutarlı
+artifact_script_or_snippet_pct,1.354100,1.366600,0.012500,True,1.360350,Güçlü ve tutarlı
+artifact_resume_or_job_application_pct,-1.043700,-1.000900,0.042800,True,1.022300,Güçlü ve tutarlı
+artifact_academic_paper_or_thesis_pct,0.514400,0.767600,0.253200,True,0.641000,Güçlü ve tutarlı
+artifact_none_pct,-0.812200,-0.398600,0.413600,True,0.605400,Küçük/değişken fark
+artifact_marketing_or_social_content_pct,-0.622100,-0.561500,0.060600,True,0.591800,Güçlü ve tutarlı
+artifact_translation_pct,0.533500,0.647800,0.114300,True,0.590650,Güçlü ve tutarlı
+artifact_advice_or_recommendation_pct,-0.420900,-0.423800,-0.002900,True,0.422350,Küçük/değişken fark
+artifact_config_or_infra_pct,0.413500,0.398600,-0.014900,True,0.406050,Küçük/değişken fark
+artifact_educational_material_pct,-0.275400,-0.535000,-0.259600,True,0.405200,Küçük/değişken fark
+artifact_data_or_spreadsheet_pct,-0.105100,-0.572800,-0.467700,True,0.338950,Küçük/değişken fark
+artifact_ml_or_ai_system_pct,0.348800,0.241600,-0.107200,True,0.295200,Küçük/değişken fark
+artifact_video_or_animation_pct,0.294100,0.213200,-0.080900,True,0.253650,Küçük/değişken fark
+artifact_game_or_interactive_pct,0.249800,0.253700,0.003900,True,0.251750,Küçük/değişken fark
+artifact_analysis_or_summary_pct,-0.181600,-0.221500,-0.039900,True,0.201550,Küçük/değişken fark
+artifact_plan_or_strategy_pct,0.165300,0.229500,0.064200,True,0.197400,Küçük/değişken fark
+artifact_blog_or_article_pct,-0.230400,-0.157500,0.072900,True,0.193950,Küçük/değişken fark
+artifact_image_or_graphic_pct,0.231500,0.141300,-0.090200,True,0.186400,Küçük/değişken fark
+artifact_presentation_or_slides_pct,-0.310000,-0.046400,0.263600,True,0.178200,Küçük/değişken fark
+artifact_math_or_calculation_pct,-0.098500,-0.216000,-0.117500,True,0.157250,Küçük/değişken fark
+artifact_sql_or_database_query_pct,0.158100,0.087600,-0.070500,True,0.122850,Küçük/değişken fark
+artifact_recipe_or_meal_plan_pct,-0.054300,-0.116100,-0.061800,True,0.085200,Küçük/değişken fark
+artifact_other_pct,0.042700,0.070700,0.028000,True,0.056700,Küçük/değişken fark
+artifact_creative_writing_pct,-0.044900,-0.041100,0.003800,True,0.043000,Küçük/değişken fark
+artifact_ui_or_design_mockup_pct,0.043800,0.040000,-0.003800,True,0.041900,Küçük/değişken fark
+artifact_audio_or_music_pct,0.024800,0.026700,0.001900,True,0.025750,Küçük/değişken fark
+artifact_idea_or_brainstorm_pct,-0.018100,-0.000600,0.017500,True,0.009350,Küçük/değişken fark
+artifact_chart_or_visualization_pct,-0.015200,0.001700,0.016900,False,0.008450,Küçük/değişken fark

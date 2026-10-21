@@ -1,0 +1,119 @@
+﻿date_start,bolge,task_code,task_name,usage_pct,work_pct,automation_pct,augmentation_pct
+2026-04-01,Dünya,4.A.1.a.1,Getting Information,12.23,39.46,59.46,40.54
+2026-04-01,Dünya,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",0.21,77.99,98.73,1.27
+2026-04-01,Dünya,4.A.1.b.1,"Identifying Objects, Actions, and Events",0.03,80.41,65.9,34.1
+2026-04-01,Dünya,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",0.07,74.12,82.62,17.38
+2026-04-01,Dünya,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",0.59,36.61,52.9,47.1
+2026-04-01,Dünya,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",0.9,44.99,39.39,60.61
+2026-04-01,Dünya,4.A.2.a.2,Processing Information,0.97,62.88,64.81,35.19
+2026-04-01,Dünya,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,0.47,66.72,35.09,64.91
+2026-04-01,Dünya,4.A.2.a.4,Analyzing Data or Information,5.75,46.57,50.06,49.94
+2026-04-01,Dünya,4.A.2.b.1,Making Decisions and Solving Problems,6.44,58.45,36.99,63.01
+2026-04-01,Dünya,4.A.2.b.2,Thinking Creatively,11.55,64.02,41.71,58.29
+2026-04-01,Dünya,4.A.2.b.3,Updating and Using Relevant Knowledge,0.04,21.27,26.41,73.59
+2026-04-01,Dünya,4.A.2.b.4,Developing Objectives and Strategies,0.24,87.09,45.63,54.37
+2026-04-01,Dünya,4.A.2.b.5,Scheduling Work and Activities,0.1,51.5,77.81,22.19
+2026-04-01,Dünya,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",0.35,54.15,52.38,47.62
+2026-04-01,Dünya,4.A.3.a.1,Performing General Physical Activities,0.0,24.55,81.48,18.52
+2026-04-01,Dünya,4.A.3.a.2,Handling and Moving Objects,0.02,8.51,81.02,18.98
+2026-04-01,Dünya,4.A.3.b.1,Working with Computers,9.48,65.58,72.66,27.34
+2026-04-01,Dünya,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,0.01,25.0,81.14,18.86
+2026-04-01,Dünya,4.A.3.b.6,Documenting/Recording Information,10.7,55.03,49.34,50.66
+2026-04-01,Dünya,4.A.4.a.1,Interpreting the Meaning of Information for Others,3.15,29.34,36.22,63.78
+2026-04-01,Dünya,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",0.37,74.23,54.0,46.0
+2026-04-01,Dünya,4.A.4.a.3,Communicating with People Outside the Organization,1.85,18.52,38.02,61.98
+2026-04-01,Dünya,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships,0.01,25.54,60.77,39.23
+2026-04-01,Dünya,4.A.4.a.5,Assisting and Caring for Others,0.12,6.81,72.14,27.86
+2026-04-01,Dünya,4.A.4.a.6,Selling or Influencing Others,0.06,94.86,68.21,31.79
+2026-04-01,Dünya,4.A.4.a.7,Resolving Conflicts and Negotiating with Others,0.02,77.27,47.46,52.54
+2026-04-01,Dünya,4.A.4.a.8,Performing for or Working Directly with the Public,1.84,18.6,51.58,48.42
+2026-04-01,Dünya,4.A.4.b.3,Training and Teaching Others,2.93,8.99,26.76,73.24
+2026-04-01,Dünya,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates",0.01,85.6,59.52,40.48
+2026-04-01,Dünya,4.A.4.b.5,Coaching and Developing Others,0.18,32.91,40.0,60.0
+2026-04-01,Dünya,4.A.4.b.6,Providing Consultation and Advice to Others,22.78,31.01,44.32,55.68
+2026-04-01,Dünya,4.A.4.c.1,Performing Administrative Activities,1.07,73.25,52.7,47.3
+2026-04-01,Dünya,4.A.4.c.2,Staffing Organizational Units,0.01,96.74,52.25,47.75
+2026-04-01,Dünya,4.A.4.c.3,Monitoring and Controlling Resources,0.01,84.3,77.44,22.56
+2026-04-01,Türkiye,4.A.1.a.1,Getting Information,11.02,33.81,56.26,43.74
+2026-04-01,Türkiye,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",0.21,72.41,100.0,0.0
+2026-04-01,Türkiye,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",0.1,81.48,92.59,7.41
+2026-04-01,Türkiye,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",0.5,41.61,50.36,49.64
+2026-04-01,Türkiye,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",1.01,45.26,40.52,59.48
+2026-04-01,Türkiye,4.A.2.a.2,Processing Information,0.91,64.23,57.74,42.26
+2026-04-01,Türkiye,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,0.46,69.6,34.43,65.57
+2026-04-01,Türkiye,4.A.2.a.4,Analyzing Data or Information,6.27,45.89,54.03,45.97
+2026-04-01,Türkiye,4.A.2.b.1,Making Decisions and Solving Problems,5.33,61.53,44.48,55.52
+2026-04-01,Türkiye,4.A.2.b.2,Thinking Creatively,12.1,62.44,45.99,54.01
+2026-04-01,Türkiye,4.A.2.b.4,Developing Objectives and Strategies,0.18,88.0,56.25,43.75
+2026-04-01,Türkiye,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",0.33,49.45,48.86,51.14
+2026-04-01,Türkiye,4.A.3.b.1,Working with Computers,12.82,65.07,73.79,26.21
+2026-04-01,Türkiye,4.A.3.b.6,Documenting/Recording Information,8.94,55.36,47.5,52.5
+2026-04-01,Türkiye,4.A.4.a.1,Interpreting the Meaning of Information for Others,3.82,29.03,41.34,58.66
+2026-04-01,Türkiye,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",0.33,65.17,59.46,40.54
+2026-04-01,Türkiye,4.A.4.a.3,Communicating with People Outside the Organization,2.03,10.89,33.33,66.67
+2026-04-01,Türkiye,4.A.4.a.5,Assisting and Caring for Others,0.15,0.0,75.0,25.0
+2026-04-01,Türkiye,4.A.4.a.8,Performing for or Working Directly with the Public,2.13,12.09,47.44,52.56
+2026-04-01,Türkiye,4.A.4.b.3,Training and Teaching Others,3.05,6.89,21.05,78.95
+2026-04-01,Türkiye,4.A.4.b.5,Coaching and Developing Others,0.15,15.0,42.42,57.58
+2026-04-01,Türkiye,4.A.4.b.6,Providing Consultation and Advice to Others,23.36,30.24,46.04,53.96
+2026-04-01,Türkiye,4.A.4.c.1,Performing Administrative Activities,0.41,72.07,43.24,56.76
+2026-05-01,Dünya,4.A.1.a.1,Getting Information,12.78,37.07,59.07,40.93
+2026-05-01,Dünya,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",0.19,75.53,98.2,1.8
+2026-05-01,Dünya,4.A.1.b.1,"Identifying Objects, Actions, and Events",0.03,79.23,62.69,37.31
+2026-05-01,Dünya,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",0.07,73.18,82.1,17.9
+2026-05-01,Dünya,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",0.65,35.92,51.91,48.09
+2026-05-01,Dünya,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",0.94,43.19,38.21,61.79
+2026-05-01,Dünya,4.A.2.a.2,Processing Information,1.05,61.9,64.05,35.95
+2026-05-01,Dünya,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,0.52,63.93,34.7,65.3
+2026-05-01,Dünya,4.A.2.a.4,Analyzing Data or Information,5.93,46.25,49.81,50.19
+2026-05-01,Dünya,4.A.2.b.1,Making Decisions and Solving Problems,6.62,55.68,36.63,63.37
+2026-05-01,Dünya,4.A.2.b.2,Thinking Creatively,11.85,62.49,41.43,58.57
+2026-05-01,Dünya,4.A.2.b.3,Updating and Using Relevant Knowledge,0.04,20.4,25.34,74.66
+2026-05-01,Dünya,4.A.2.b.4,Developing Objectives and Strategies,0.22,86.39,46.22,53.78
+2026-05-01,Dünya,4.A.2.b.5,Scheduling Work and Activities,0.11,51.12,77.47,22.53
+2026-05-01,Dünya,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",0.39,52.44,51.55,48.45
+2026-05-01,Dünya,4.A.3.a.1,Performing General Physical Activities,0.0,24.16,79.19,20.81
+2026-05-01,Dünya,4.A.3.a.2,Handling and Moving Objects,0.02,6.57,77.86,22.14
+2026-05-01,Dünya,4.A.3.b.1,Working with Computers,9.4,64.22,72.06,27.94
+2026-05-01,Dünya,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,0.01,17.41,85.39,14.61
+2026-05-01,Dünya,4.A.3.b.6,Documenting/Recording Information,11.6,53.49,49.1,50.9
+2026-05-01,Dünya,4.A.4.a.1,Interpreting the Meaning of Information for Others,3.4,27.65,36.93,63.07
+2026-05-01,Dünya,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",0.36,75.16,53.25,46.75
+2026-05-01,Dünya,4.A.4.a.3,Communicating with People Outside the Organization,1.96,16.08,39.38,60.62
+2026-05-01,Dünya,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships,0.01,19.7,57.62,42.38
+2026-05-01,Dünya,4.A.4.a.5,Assisting and Caring for Others,0.14,5.34,69.69,30.31
+2026-05-01,Dünya,4.A.4.a.6,Selling or Influencing Others,0.06,95.51,66.35,33.65
+2026-05-01,Dünya,4.A.4.a.7,Resolving Conflicts and Negotiating with Others,0.02,79.41,45.34,54.66
+2026-05-01,Dünya,4.A.4.a.8,Performing for or Working Directly with the Public,2.03,16.45,52.55,47.45
+2026-05-01,Dünya,4.A.4.b.3,Training and Teaching Others,3.19,8.11,26.2,73.8
+2026-05-01,Dünya,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates",0.02,84.11,58.59,41.41
+2026-05-01,Dünya,4.A.4.b.5,Coaching and Developing Others,0.19,29.25,41.3,58.7
+2026-05-01,Dünya,4.A.4.b.6,Providing Consultation and Advice to Others,23.89,28.32,44.3,55.7
+2026-05-01,Dünya,4.A.4.c.1,Performing Administrative Activities,1.06,72.0,52.38,47.62
+2026-05-01,Dünya,4.A.4.c.2,Staffing Organizational Units,0.02,96.74,54.14,45.86
+2026-05-01,Dünya,4.A.4.c.3,Monitoring and Controlling Resources,0.01,82.17,73.91,26.09
+2026-05-01,Türkiye,4.A.1.a.1,Getting Information,11.46,30.08,53.85,46.15
+2026-05-01,Türkiye,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",0.12,77.78,93.18,6.82
+2026-05-01,Türkiye,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",0.08,86.67,83.33,16.67
+2026-05-01,Türkiye,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",0.52,38.1,57.61,42.39
+2026-05-01,Türkiye,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",0.99,41.74,37.64,62.36
+2026-05-01,Türkiye,4.A.2.a.2,Processing Information,0.9,61.42,58.49,41.51
+2026-05-01,Türkiye,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,0.53,58.85,33.16,66.84
+2026-05-01,Türkiye,4.A.2.a.4,Analyzing Data or Information,6.31,44.42,51.31,48.69
+2026-05-01,Türkiye,4.A.2.b.1,Making Decisions and Solving Problems,5.72,54.34,42.85,57.15
+2026-05-01,Türkiye,4.A.2.b.2,Thinking Creatively,12.34,58.03,45.38,54.62
+2026-05-01,Türkiye,4.A.2.b.3,Updating and Using Relevant Knowledge,0.05,5.88,11.76,88.24
+2026-05-01,Türkiye,4.A.2.b.4,Developing Objectives and Strategies,0.13,85.42,36.96,63.04
+2026-05-01,Türkiye,4.A.2.b.5,Scheduling Work and Activities,0.05,61.11,66.67,33.33
+2026-05-01,Türkiye,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",0.27,38.14,44.09,55.91
+2026-05-01,Türkiye,4.A.3.b.1,Working with Computers,12.46,60.2,73.26,26.74
+2026-05-01,Türkiye,4.A.3.b.6,Documenting/Recording Information,9.27,49.19,48.15,51.85
+2026-05-01,Türkiye,4.A.4.a.1,Interpreting the Meaning of Information for Others,4.29,28.05,43.19,56.81
+2026-05-01,Türkiye,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",0.34,66.13,50.54,49.46
+2026-05-01,Türkiye,4.A.4.a.3,Communicating with People Outside the Organization,2.13,10.56,34.08,65.92
+2026-05-01,Türkiye,4.A.4.a.5,Assisting and Caring for Others,0.14,3.85,67.86,32.14
+2026-05-01,Türkiye,4.A.4.a.8,Performing for or Working Directly with the Public,2.11,14.81,51.21,48.79
+2026-05-01,Türkiye,4.A.4.b.3,Training and Teaching Others,3.09,6.28,22.31,77.69
+2026-05-01,Türkiye,4.A.4.b.5,Coaching and Developing Others,0.13,29.79,33.33,66.67
+2026-05-01,Türkiye,4.A.4.b.6,Providing Consultation and Advice to Others,24.38,27.76,46.74,53.26
+2026-05-01,Türkiye,4.A.4.c.1,Performing Administrative Activities,0.52,70.97,55.49,44.51
