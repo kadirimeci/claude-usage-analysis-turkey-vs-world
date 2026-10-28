@@ -122,10 +122,6 @@ Bu komutlar mevcut proje dosyalarında belgelenen betik adlarına dayanmaktadır
 - Kapsam ve kategori eşleşmeleri nedeniyle bazı payların toplamı %100'e ulaşmayabilir. Farklı normalizasyon ve ağırlıklandırma yöntemleriyle hesaplanan oranlar doğrudan eşitlenmemelidir.
 - Örneklem büyüklüğü ve güven aralığına ilişkin yeterli bilgi olmadan istatistiksel anlamlılık iddiası kurulmaz.
 
-## Araştırma makalesi
-
-Projenin bulguları, yorumları ve görselleri LinkedIn'de yayımlanan bir araştırma makalesinde sunulmuştur. **Makale bağlantısı**, doğrulanmış URL eklendiğinde burada paylaşılacaktır.
-
 ---
 
 **Kaynak:** Anthropic Economic Index (AEI). Bu depo bağımsız bir portföy çalışmasıdır; Anthropic tarafından hazırlanmış veya onaylanmış resmî bir rapor değildir.
